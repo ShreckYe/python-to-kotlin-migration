@@ -24,7 +24,7 @@ PyCharm to IntelliJ IDEA
 ### Library migration
 #### NumPy to primitive arrays
 #### NumPy linear algebra to ND4J (or LA4J, or Apache Commons Math, or EJML)
-#### pandas to Apache Commons CSV
+#### pandas to Apache Commons CSV and Apache POI
 #### SymPy to Apache Commons Math
 #### OkHttp
 #### Efficient primitive collections
