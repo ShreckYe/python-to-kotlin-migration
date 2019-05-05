@@ -27,6 +27,9 @@ PyCharm to IntelliJ IDEA
 #### Basic data structures
 ##### Lists
 ##### Tuples to pairs, triples, data classes, or arrays/lists
+###### Tuples with elements of same types
+###### Tuples with elements of differenct types
+Why is there no tuple type for an arbitrary number of elements in Kotlin?
 ##### Dictionaries to maps
 
 #### Functional programming
