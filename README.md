@@ -16,6 +16,8 @@ PyCharm to IntelliJ IDEA
 ##### `val` and `var`
 ##### Naming conventions
 
+#### Code blocks (add braces)
+
 #### Control
 ##### Branches (if, else if, and else)
 ##### Loops
@@ -30,6 +32,7 @@ PyCharm to IntelliJ IDEA
 #### Functional programming
 ##### filter
 ##### map and list comprehension
+##### Other functional programming extension functions
 
 ### Environment migration
 #### Files
